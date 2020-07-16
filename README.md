@@ -1,16 +1,30 @@
-### Hi there I am ![#1bb7bf](.)`Sotiris`👋
+### Hi there I am Sotiris! 👋
 
-<!--
-**sotiriskarageorgopoulos/sotiriskarageorgopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I study in Department Digital Systems, University  of Piraeus 🎓
 
-Here are some ideas to get you started:
+#### I'm currently learning web development 👨🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills
+- HTML
+- CSS
+- XML
+- JSON
+
+Programming languages
+- Java
+- Python
+- JavaScript
+
+Frameworks
+- Bootstrap
+- Angular
+- React
+- Django
+
+Microframeworks
+- Spark
+- Flask
+
+#### Love practice and learning !!! 📚
+
+###### “The greatest obstacle to discovery is not ignorance, but the illusion of knowledge.” - Daniel Boorstin
