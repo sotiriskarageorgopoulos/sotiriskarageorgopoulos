@@ -1,4 +1,4 @@
-### Hi there I am ![#1589F0](Sotiris) 👋
+### Hi there I am +Sotiris 👋
 
 <!--
 **sotiriskarageorgopoulos/sotiriskarageorgopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
