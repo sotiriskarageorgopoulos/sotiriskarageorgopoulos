@@ -5,8 +5,6 @@
 #### I'm currently learning web development 👨🏻‍💻
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sotiriskarageorgopoulos&show_icons=true)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sotiriskarageorgopoulos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sotiris-karageorgopoulos-537391175/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sotiris.karageorgopoulos)
-![Profile views](https://gpvc.arturio.dev/sotiriskarageorgopoulos)
 
 #### Skills
 - HTML
@@ -31,6 +29,8 @@ Microframeworks
 
 DevOps Tool
 - Docker
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sotiriskarageorgopoulos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sotiris-karageorgopoulos-537391175/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sotiris.karageorgopoulos)
 
 #### Love practice and learning !!! 📚
 
