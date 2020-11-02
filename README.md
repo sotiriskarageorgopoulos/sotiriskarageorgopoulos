@@ -7,28 +7,19 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sotiriskarageorgopoulos&show_icons=true)
 
 #### Skills
-- HTML
-- CSS
-- XML
-- JSON
-
-Programming languages
-- Java
-- Python
-- JavaScript
-
-Frameworks
-- Bootstrap
-- Angular
-- React
-- Django
-
-Microframeworks
-- Spark
-- Flask
-
-DevOps Tool
-- Docker
+HTML/CSS/SASS/XML/JSON
+##### Programming languages
+Java/Python/JavaScript
+##### JS Frameworks
+Angular/React
+##### Python Frameworks
+Django
+##### CSS Frameworks
+Bootstrap/Bulma
+#### Microframeworks
+Spark/Flask
+#### DevOps Tool
+Docker
 
 #### Love practice and learning !!! 📚
 
