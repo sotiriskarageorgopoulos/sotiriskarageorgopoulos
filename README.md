@@ -6,12 +6,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sotiriskarageorgopoulos&show_icons=true)
 
-**Programming languages:** Java,Python,JavaScript
-**Frameworks:** Angular,React,Express.js,Flask,Django,Spark
-**CSS Frameworks:** Bootstrap,Bulma
-**DevOps Tool:** Docker
-**DBs:** MySQL,Microsoft SQL Server,MongoDB
-**Additional Skills:** HTML,CSS,SASS,XML,JSON
+**Programming languages:** Java,Python,JavaScript <br/>
+**Frameworks:** Angular,React,Express.js,Flask,Django,Spark <br/>
+**CSS Frameworks:** Bootstrap,Bulma <br/>
+**DevOps Tool:** Docker <br/>
+**DBs:** MySQL,Microsoft SQL Server,MongoDB <br/>
+**Additional Skills:** HTML,CSS,SASS,XML,JSON <br/>
 
 #### Love practice and learning !!! 📚
 
