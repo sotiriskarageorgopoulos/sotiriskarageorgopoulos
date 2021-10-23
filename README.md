@@ -4,14 +4,15 @@
 
 #### I'm currently learning web development 👨🏻‍💻
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sotiriskarageorgopoulos&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sotiriskarageorgopoulos&show_icons=true&theme=dark)
 
 **Programming languages:** Java,Python,JavaScript <br/>
 **Frameworks:** Angular,React,Express.js,Flask,Django,Spark,Jersey<br/>
 **CSS Frameworks:** Bootstrap,Bulma <br/>
 **DevOps Tool:** Docker <br/>
 **DBs:** MySQL,Microsoft SQL Server,MongoDB <br/>
-**Additional Skills:** HTML,CSS,SASS,XML,JSON,JSP,Jinja,Apache FreeMarker <br/>
+**Template Engines:** Apache FreeMarker,Pug,Jinja <br/>
+**Additional Skills:** HTML,CSS,SASS,XML,JSON,JSP <br/>
 
 #### Love practice and learning !!! 📚
 
