@@ -8,9 +8,9 @@
 
 **Programming languages:** Java,Python,JavaScript <br/>
 **Frameworks:** Angular,React,Express.js,Flask,Django,Spark,Jersey<br/>
-**CSS Frameworks:** Bootstrap,Bulma <br/>
+**CSS Frameworks:** Bootstrap,Material UI,Angular Material,Bulma <br/>
 **DevOps Tool:** Docker <br/>
-**DBs:** MySQL,Microsoft SQL Server,MongoDB <br/>
+**DBs:** MySQL,Microsoft SQL Server,SQLite,MongoDB <br/>
 **Template Engines:** Apache FreeMarker,Pug,Jinja <br/>
 **Additional Skills:** HTML,CSS,SASS,XML,JSON,JSP <br/>
 
