@@ -2,17 +2,16 @@
 
 #### I study in Department Digital Systems, University  of Piraeus 🎓
 
-#### I'm currently learning web development 👨🏻‍💻
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sotiriskarageorgopoulos&show_icons=true&theme=dark)
 
 **Programming languages:** Java,Python,JavaScript <br/>
 **Frameworks:** Angular,React,Express.js,Flask,Django,Spark,Jersey<br/>
 **CSS Frameworks:** Bootstrap,Material UI,Angular Material,Bulma <br/>
-**DevOps Tool:** Docker <br/>
-**DBs:** MySQL,Microsoft SQL Server,SQLite,MongoDB <br/>
+**DevOps Tool:** Docker,Kubernetes <br/>
+**DBs:** MySQL,Microsoft SQL Server,SQLite,MongoDB,Neo4j,Cloud Firestore <br/>
 **Template Engines:** Apache FreeMarker,Pug,Jinja <br/>
-**Additional Skills:** HTML,CSS,SASS,XML,JSON,JSP <br/>
+**Additional Skills:** HTML,CSS,SASS,XML,YAML,JSON,JSP <br/>
+**Data Science Libraries:** NumPy,Pandas,Seaborn,Matplotlib,TextBlob <br/>
 
 #### Love practice and learning !!! 📚
 
