@@ -2,8 +2,6 @@
 
 #### I study in Department Digital Systems, University  of Piraeus 🎓
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sotiriskarageorgopoulos&show_icons=true&theme=dark)
-
 **Programming languages:** Java,Python,JavaScript <br/>
 **Frameworks:** Angular,React,Express.js,Flask,Django,Spark,Jersey<br/>
 **CSS Frameworks:** Bootstrap,Material UI,Angular Material,Bulma <br/>
